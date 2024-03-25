@@ -28,9 +28,6 @@ def sort_by_count(letters):
     return list
 
 
-
-
-
 def count_letters(content):
     dict = {}
     for char in content.lower():
